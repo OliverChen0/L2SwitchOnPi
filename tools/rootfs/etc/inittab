@@ -1,0 +1,3 @@
+::sysinit:/etc/init.d/rcS
+::shutdown:/bin/umount -a -r
+tty1::respawn:/sbin/getty 115200 tty1

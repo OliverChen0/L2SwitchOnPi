@@ -1,0 +1,11 @@
+
+
+
+#!/bin/sh
+# 挂载伪文件系统
+mount -t proc proc /proc
+mount -t sysfs sysfs /sys
+mount -t devtmpfs devtmpfs /dev
+
+# 开启控制台
+exec /bin/sh
