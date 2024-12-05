@@ -16,11 +16,11 @@
 /* ================================================================= *
  *  Integer types
  * ================================================================= */
-typedef unsigned int     uint;               /**< Short for unsigned integer   */
-typedef unsigned short   ushort;             /**< Short for unsigned short     */
-typedef unsigned char    uchar;              /**< Short for unsigned character */
-typedef signed char      schar;              /**< Short for signed integer     */
-typedef long long        longlong;           /**< Short for long long          */
+typedef unsigned int        uint;               /**< Short for unsigned integer   */
+typedef unsigned short      ushort;             /**< Short for unsigned short     */
+typedef unsigned char       uchar;              /**< Short for unsigned character */
+typedef signed char         schar;              /**< Short for signed integer     */
+typedef long long           longlong;           /**< Short for long long          */
 typedef unsigned long long  ulonglong;       /**< Short for unsigned long long */
 
 
