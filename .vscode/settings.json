@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "Make.linux": "makefile",
+        "Makefile.linux-iproc": "makefile",
+        "Make.config": "makefile",
+        "Make.local": "makefile",
+        "*.icli": "cpp",
+        "bitset": "cpp",
+        "thread": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "span": "cpp",
+        "ratio": "cpp",
+        "system_error": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "variant": "cpp",
+        "list": "cpp",
+        "unistd.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc"
+}
